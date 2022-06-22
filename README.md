@@ -5,10 +5,15 @@
 Following analysis were performed in tableau-
 
 1)Revenue per state
+
 2)Revenue based on month of the year
+
 3)Revenue based on age
+
 4)Quantity-Discount percentage correlation
+
 5)Percentage of revenue per region
+
 6)Revenue per category per gender
 
  
